@@ -1,2 +1,2 @@
 # Terra-Nova
-[embed] documentatie_atestat.pdf [/embed]
+you can [get the PDF](documentatie_atestat.pdf) directly.
