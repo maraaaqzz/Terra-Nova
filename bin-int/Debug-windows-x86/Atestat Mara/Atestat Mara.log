@@ -1,0 +1,17 @@
+﻿  Main.cpp
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(105,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(105,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(125,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(154,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(157,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(197,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(198,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(198,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(209,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(241,41): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(280,39): warning C4018: '<': signed/unsigned mismatch
+D:\Proiecte\My Projects\Atestat Mara - Copy\Atestat Mara\Source\Main.cpp(348,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\Proiecte\My Projects\Atestat Mara - Copy\bin\Debug-windows-x86\Atestat Mara\vc120.pdb'; linking object as if no debug info
+  Atestat Mara.vcxproj -> D:\Proiecte\My Projects\Atestat Mara - Copy\bin\Debug-windows-x86\Atestat Mara\Atestat Mara.exe

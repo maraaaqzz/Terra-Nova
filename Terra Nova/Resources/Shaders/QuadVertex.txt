@@ -1,0 +1,18 @@
+#version 330 core
+
+layout(location = 0) in vec2 vertex_position;
+layout(location = 1) in vec2 texture_coordonate;
+
+out vec2 tex_coord;
+uniform mat4 ortho_matrix;
+uniform mat4 model_matrix;
+
+uniform float u_px;
+uniform float u_py;
+
+void main()
+{
+	gl_Position = ortho_matrix * model_matrix * vec4(vertex_position, 0.0, 1.0);
+	tex_coord.x = texture_coordonate.x * u_px;
+	tex_coord.y = texture_coordonate.y * u_py;
+}
