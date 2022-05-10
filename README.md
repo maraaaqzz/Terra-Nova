@@ -1,2 +1,2 @@
 # Terra-Nova
-you can [get the PDF](documentatie_atestat.pdf) directly.
+[Deschide documentatia](documentatie_atestat.pdf)
