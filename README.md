@@ -15,6 +15,6 @@ run generate_project.bat
 # Screenshots
 ![ss](Screenshots/mainScreen.png)
 ![ss1](Screenshots/fullMap.png)
-![ss2](Screenshots/Europe.png)
 ![ss3](Screenshots/basel.png)
+![ss2](Screenshots/Europe.png)
 ![ss4](Screenshots/retezat.png)
