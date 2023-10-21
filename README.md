@@ -13,8 +13,8 @@ Terra Nova application is designed for the curious who want to improve their gen
 run generate_project.bat
 
 # Screenshots
-![ss](Screenshots/mainScreen.jpg)
-![ss1](Screenshots/fullMap.jpg)
-![ss2](Screenshots/Europe.jpg)
-![ss3](Screenshots/basel.jpg)
-![ss4](Screenshots/retezat.jpg)
+![ss](Screenshots/mainScreen.png)
+![ss1](Screenshots/fullMap.png)
+![ss2](Screenshots/Europe.png)
+![ss3](Screenshots/basel.png)
+![ss4](Screenshots/retezat.png)
