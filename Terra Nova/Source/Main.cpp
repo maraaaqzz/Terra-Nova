@@ -111,7 +111,7 @@ int main()
     }
 
     glfwMakeContextCurrent(window); // ba opengl deseanaza aici pe fereastra asta
-
+    glfwSwapInterval(1);
     if (glewInit() != GLEW_OK) // glew initializam, asta face leagutra la functiile din opengl care ne ajuta la desenat
         return -1;
 
@@ -238,7 +238,7 @@ int main()
 
             if (map_position < screen_width) // daca harta nu e complet deschisa, o misc spre dreapta
             {
-                map_position += 1000.0f * delta_time;
+                map_position += 5000.0f * delta_time;
                 renderer::draw(main_menu, { screen_width / 2.0f, screen_height / 2.0f }, { screen_width, screen_height });
             }
 
